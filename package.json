@@ -1,0 +1,15 @@
+{
+  "name": "datascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node datatoobject.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "lodash": "^4.17.5"
+  }
+}
